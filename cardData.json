@@ -1,0 +1,54 @@
+{
+  "before-robot": [
+    { "title": "Site and Robot Selection", "content": "Explore whether you can run a study in the site with your specific robot." },
+    { "title": "Physical Robot Setup", "shortContent":"safe robot transport to the site", "content": "<li>safe robot transport to the site</li>\n\n<li>Try out wifi connection/setup in multiple locations</li>\n\n<li>figure out and test charging/batteries + wiring</li>" },
+    { "title": "Robot Programming", "shortContent": "Equip and test the robot ...", "content": "<li>Equip and test the robot for obstacle detection</li><li>Test Emergency shut-down procedure</li><li>Plan for potential collisions despite obstacle detection.</li><li>Implement protocols for the robot to maintain a safe distance</li><li>Avoid collisions with people, pets, and objects.</li><li>Consider mobility aids, such as wheelchairs or canes.</li>" },
+    { "title": "Site Pre-Testing", "shortContent": "Run small pre-tests ...", "content": "<li>Run small pre-tests with the robot on-site</li><li>Verify you are collecting the right data</li>" },
+    { "title": "A priori information/resources for robot", "shortContent": "Acquire map ...", "content": "<li>Acquire maps</li><li>Necessary dictionaries etc. for semantic information</li><li>Ensure code for data storage</li><li>Develop or check remote monitoring software</li><li>may need map creation (LIDAR)</li>" },
+    { "title": "Site Visit", "shortContent": "Conduct site visits to ...", "content": "<li>Conduct site visits to explore how the robot will move in the space, identify challenging areas</li><li>Set when to do the site visit</li><li>areas for charging, potential issues (e.g., escalators, elevators, blocked areas, ramp access, are sounds actually working in local setting, etc.)</li><li>Test with people to see potential conflicts?</li><li>Test at nightime with no people to perform LIDAR mapping?</li>"}
+],
+  "before-researchers": [
+    { "title": "Ethics Approval", "shortContent": "IRB submission", "content": "IRB submission and approval process" },
+    { "title": "Study Design", "content": "Research methodology and participant recruitment" },
+    { "title": "Data Collection Methods", "shortContent": "Survey/interview protocols", "content": "Survey design and interview protocols" }
+  ],
+  "before-public": [
+    { "title": "Legal Compliance", "content": "Regulatory requirements and permits" },
+    { "title": "Stakeholder Engagement", "shortContent": "Community outreach", "content": "Community outreach and information sessions" },
+    { "title": "Risk Assessment", "content": "Safety evaluations and contingency planning" }
+  ],
+  "during-robot": [
+    { "title": "Robot Maintenance", "shortContent": "Maintenance & calibration", "content": "Regular maintenance and calibration checks" },
+    { "title": "Data Recording", "content": "Sensor data logging and performance metrics" },
+    { "title": "Real-time Monitoring", "shortContent": "System status", "content": "System status and error detection" }
+  ],
+  "during-researchers": [
+    { "title": "Data Collection", "content": "Active observation and participant interviews,Active observation and participant interviews,Active observation and participant interviews,Active observation and participant interviews,Active observation and participant interviews" },
+    { "title": "Field Notes", "shortContent": "Documentation", "content": "Detailed documentation of interactions" },
+    { "title": "Preliminary Analysis", "content": "Initial data coding and pattern identification" },
+    { "title": "Public Safety", "content": "Ongoing safety monitoring and incident reporting" }
+  ],
+  "during-public": [
+    { "title": "Public Safety", "content": "Ongoing safety monitoring and incident reporting" },
+    { "title": "Feedback Collection", "shortContent": "Community response", "content": "Community response and concerns" },
+    { "title": "Media Relations", "content": "Press releases and public communications" },
+    { "title": "Legal Compliance", "content": "Regulatory requirements and permits" },
+    { "title": "Stakeholder Engagement", "content": "Community outreach and information sessions" },
+    { "title": "Risk Assessment", "content": "Safety evaluations and contingency planning" }
+  ],
+  "after-robot": [
+    { "title": "System Teardown", "content": "Equipment decommissioning and storage" },
+    { "title": "Performance Report", "shortContent": "Technical analysis", "content": "Technical analysis and system evaluation" },
+    { "title": "Maintenance Log", "content": "Complete maintenance history and issues" }
+  ],
+  "after-researchers": [
+    { "title": "Data Analysis", "content": "Statistical analysis and thematic coding" },
+    { "title": "Publication", "shortContent": "Paper writing", "content": "Paper writing and conference presentations" },
+    { "title": "Future Research", "content": "Recommendations and follow-up studies" }
+  ],
+  "after-public": [
+    { "title": "Impact Assessment", "content": "Community impact evaluation" },
+    { "title": "Policy Recommendations", "shortContent": "Regulatory improvements", "content": "Suggested regulatory improvements" },
+    { "title": "Public Report", "content": "Accessible summary for stakeholders" }
+  ]
+}
